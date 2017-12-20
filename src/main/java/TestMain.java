@@ -12,5 +12,13 @@ public class TestMain {
         data.setVector(d);
         System.out.println (data.toString());
         System.out.println (data.toString());
+        System.out.println (data.toString());
+        System.out.println (data.toString());System.out.println (data.toString());
+        System.out.println (data.toString());System.out.println (data.toString());
+        System.out.println (data.toString());System.out.println (data.toString());
+        System.out.println (data.toString());
+
+
+
     }
 }
