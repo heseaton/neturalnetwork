@@ -11,5 +11,6 @@ public class TestMain {
         double[] d = new double[]{1.1,2.4,5.6,0.2};
         data.setVector(d);
         System.out.println (data.toString());
+        System.out.println (data.toString());
     }
 }
